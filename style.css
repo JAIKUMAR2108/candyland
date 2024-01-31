@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-image: url(pic/dge1xga-db7b7617-c19d-432d-a809-4ea5863fdc4f.jpg); */
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #491010;
+  }
+
+
+
+body{
+    background-image: url(pic/dge1xga-db7b7617-c19d-432d-a809-4ea5863fdc4f.jpg);
+}
